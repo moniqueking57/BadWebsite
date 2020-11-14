@@ -1,0 +1,46 @@
+.section-brown{
+    font-size: 15rem; 
+    margin: 16px; 
+    color: brown;
+}
+
+.section-yellow {
+    font-size: 15px; 
+    margin: 16px; 
+    color: blue;
+}
+
+.section-green{
+    font-size: 5px; 
+    margin: -32px; 
+    color: green;
+}
+
+.section-2{
+    font-size: 15px; 
+    margin: 2px; 
+    color: whitesmoke; 
+    background-color:black;
+}
+
+p {
+  width: 60px;
+  font-size: 200%;
+}
+
+h1 {
+  padding-left: 600px;
+  font-size: 14px;
+}
+
+
+body{
+    font-size: 12px;
+}
+
+.section-smallerh1{
+    font-size: 5px; 
+    margin: -32px; 
+    color: green; 
+    background-color: aqua;
+}
